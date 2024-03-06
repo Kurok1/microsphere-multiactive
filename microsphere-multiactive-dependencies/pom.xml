@@ -65,6 +65,12 @@
 
             <dependency>
                 <groupId>io.github.microsphere-projects</groupId>
+                <artifactId>microsphere-multiactive-mysql</artifactId>
+                <version>${revision}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>io.github.microsphere-projects</groupId>
                 <artifactId>microsphere-multiactive-netflix</artifactId>
                 <version>${revision}</version>
             </dependency>

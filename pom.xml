@@ -53,6 +53,7 @@
         <module>microsphere-multiactive-spring-boot-starter</module>
         <module>microsphere-multiactive-spring-cloud-starter</module>
         <module>microsphere-multiactive-spring-cloud-loadbalancer</module>
+        <module>microsphere-multiactive-mysql</module>
     </modules>
 
     <distributionManagement>
